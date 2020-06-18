@@ -14,7 +14,7 @@ role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Rutgers University- New Brunswick
+- name: Rutgers University - New Brunswick
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,7 +29,7 @@ education:
   courses:
   - course: MS in Electrical and Computer Engineering
     institution: Rutgers University - New Brunswick
-    year: 2018
+    year: 2020 (Expected)
   - course: B.Tech in Electronics and Communication Engineering
     institution: National Institute of Technology, Rourkela
     year: 2017
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:mareesh@winlab.rutgers.edu"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:mareesh.issar@rutgers.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mareesh_issar
@@ -53,9 +53,9 @@ social:
   link: https://github.com/mareeshissar
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: https://drive.google.com/open?id=1J80nuj8iBfSgWWv9hZai--P0hitKaP_Q
+-  icon: cv
+   icon_pack: ai
+   link: https://drive.google.com/open?id=1J80nuj8iBfSgWWv9hZai--P0hitKaP_Q
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

@@ -18,19 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Summer Intern"
+  title = "Systems Engineering Graduate Research Assistant"
   company = "WINLAB, Rutgers University"
   company_url = ""
   location = "North Brunswick"
   date_start = "2017-05-01"
-  date_end = "2017-08-01"
+  date_end = ""
   description = """
-  * Performed simulations for handover in LTE networks using NS-3
-  * Created simulation building blocks for femtocell, handover verification and trajectory verification
+  * Proposed and implemented a centralized heuristic-based user association algorithm improving the     energy efficiency of cellular network by 87.83% over max-SNR based user association algorithm
+  * Programmed cellular network simulation modules for handover verification on ORBIT testbed using     NS-3
+  * Researched on small cells and handover schemes in 3GPP LTE networks
   """
 
 [[experience]]
-  title = "Summer Research Intern"
+  title = "Systems Research Intern"
   company = "Indian Institute of Technology Kharagpur"
   company_url = ""
   location = "Kharagpur"
@@ -38,6 +39,6 @@ date_format = "Jan 2006"
   date_end = "2016-07-31"
   description = """
   * Designed and built a testbed for Visible Light Communication (VLC) with off-the-shelf LED lamps
-  * Developed a Windows application using Microsoft Visual Studio to support transfer of short text messages between two computers utilizing the VLC testbed
+  * Developed a Windows application using Microsoft Visual Studio to support transfer of short text     messages between two computers utilizing the VLC testbed
   """
 +++
