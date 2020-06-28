@@ -22,11 +22,11 @@ date_format = "Jan 2006"
   company = "WINLAB, Rutgers University"
   company_url = ""
   location = "North Brunswick"
-  date_start = "2017-05-01"
+  date_start = "2019-05-01"
   date_end = ""
   description = """
   * Proposed and implemented a centralized heuristic-based user association algorithm improving the     energy efficiency of cellular network by 87.83% over max-SNR based user association algorithm
-  * Programmed cellular network simulation modules for handover verification on ORBIT testbed using     NS-3
+  * Programmed cellular network simulation modules for handover verification on [ORBIT](https://www.orbit-lab.org/) testbed using ns-3
   * Researched on small cells and handover schemes in 3GPP LTE networks
   """
 
