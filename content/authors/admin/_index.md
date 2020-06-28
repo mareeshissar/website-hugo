@@ -43,7 +43,7 @@ social:
 #  link: "mailto:mareesh.issar@rutgers.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: file-pdf
   icon_pack: fas
-  link: https://drive.google.com/open?id=1J80nuj8iBfSgWWv9hZai--P0hitKaP_Q
+  link: https://drive.google.com/file/d/1DrPJVoup0FBmsF73cx0h5Qo5qBOc05Aq/view?usp=sharing
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=IydlihQAAAAJ&hl=en&oi=ao
