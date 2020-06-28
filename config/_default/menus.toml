@@ -18,6 +18,10 @@
   url = "#accomplishments"
   weight = 30
 
+[[main]]
+  name = "Academics"
+  url = "#academics"
+  weight = 33
 
 [[main]]
   name = "Recent Talks"
