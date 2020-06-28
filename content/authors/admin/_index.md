@@ -70,4 +70,4 @@ user_groups:
 
 I am a master's student in the [Electrical and Computer Engineering](https://www.ece.rutgers.edu/) department at [Rutgers, The State University of New Jersey](https://www.rutgers.edu/). Currently, I am working on my master's thesis under the guidance of [Prof. Dipankar Raychaudhuri](http://www.winlab.rutgers.edu/docs/faculty/RayBio.html) at [Wireless Information Network  Laboratory - WINLAB](http://www.winlab.rutgers.edu/). 
 
-Outside of research, I enjoy hiking, [playing piano](https://soundcloud.com/mareesh23), and reading books.
+Outside of research, I enjoy hiking, [playing piano](https://soundcloud.com/mareesh23), and [reading books](https://drive.google.com/file/d/1SkadqBYrMkZXeC3zniI0J9kiLUpmocPF/view?usp=sharing).
