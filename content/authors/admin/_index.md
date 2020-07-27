@@ -20,8 +20,8 @@ organizations:
 bio: My interests include wireless systems, software engineering and artificial intelligence.
 
 interests:
-- Wireless Systems
 - Software Engineering
+- Wireless Systems
 - Artificial Intelligence
 
 education:
@@ -58,6 +58,9 @@ social:
 -  icon: twitter
    icon_pack: fab
    link: https://twitter.com/mareesh_issar
+-  icon: dev
+   icon_pack: fab
+   link: https://devpost.com/mareeshissar
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 

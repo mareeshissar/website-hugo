@@ -1,34 +1,24 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Design and Implementation of Content Routing Protocol"
+title: "Bayesian hunting"
 subtitle: ""
-summary: ""
+summary: "Used Bayesian inference for tracking the location of a target hidden in a multi-terrain landscape"
 authors: []
 tags: []
 categories: []
-date: "2020-03-09T13:00:00Z"
-date_end: "2020-03-09T14:00:00Z"
-all_day: false
-
-
-location: Lutron HQ
-address:
-  street: 7200 Suter Road
-  city: Coopersburg
-  region: PA
-  postcode: '18036'
-  country: United States
-
-#lastmod: 2020-06-24T17:23:42-04:00
+date: 2019-11-01T02:01:15-04:00
+lastmod: 2020-06-25T02:01:15-04:00
 featured: false
 draft: false
+
+#external_link: "https://github.com/mareeshissar" 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Image credit: [**Communication Networks II**](http://www.winlab.rutgers.edu/comnet2/)"
+  caption: "Image credit: [**W. Cowan**](https://www.cs.rutgers.edu/~cwcowan/)"
   focal_point: ""
   preview_only: false
 
@@ -38,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-
-url_pdf: "pdf/Lutron_presentation.pdf"
-url_slides: "slides/Lutron_presentation.pptx"
 ---
+Used Bayesian inference for tracking the location of a target hidden in a multi-terrain landscape by using the following rules:
+1. Searching the cell with the highest probability of finding the target
+2. Searching the cell with the highest probability of containing the target

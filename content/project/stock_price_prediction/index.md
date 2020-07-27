@@ -1,18 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Intro to ai"
+title: "Stock price prediction"
 subtitle: ""
-summary: "Maze Runner: Implemented graph search algorithms (BFS, DFS, A* and Bidirectional BFS) for path planning and local search algorithms (hill climbing, simulated annealing and genetic) to discover harder mazes"
+summary: "Collaborated in a team of 5 to predict the future stock price with historical data using machine learning algorithms like Bayesian Regression, Support Vector Regression and Artificial Neural Network."
 authors: []
 tags: []
 categories: []
-date: 2020-06-25T02:01:15-04:00
+date: 2019-04-01T02:01:15-04:00
 lastmod: 2020-06-25T02:01:15-04:00
 featured: false
 draft: false
 
-external_link: "https://github.com/mareeshissar" 
+#external_link: "https://github.com/mareeshissar" 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
