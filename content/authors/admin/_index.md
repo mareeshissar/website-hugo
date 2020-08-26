@@ -41,9 +41,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: "mailto:mareesh.issar@rutgers.edu"  # For a direct email link, use "mailto:test@example.org".
-- icon: file-pdf
-  icon_pack: fas
-  link: https://drive.google.com/file/d/1DrPJVoup0FBmsF73cx0h5Qo5qBOc05Aq/view?usp=sharing
+#- icon: file-pdf
+#  icon_pack: fas
+# link: 
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=IydlihQAAAAJ&hl=en&oi=ao
