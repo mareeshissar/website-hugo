@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "North Brunswick"
   date_start = "2019-05-01"
-  date_end = ""
+  date_end = "2020-10-01"
   description = """
   * Proposed and implemented a centralized heuristic-based user association algorithm improving the     energy efficiency of cellular network by 87.83% over max-SNR based user association algorithm
   * Programmed cellular network simulation modules for handover verification on [ORBIT](https://www.orbit-lab.org/) testbed using ns-3
